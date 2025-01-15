@@ -10,8 +10,8 @@
     <div class="text-center sm:text-left">
       <h2 class="text-2xl font-bold text-white sm:text-3xl md:text-5xl">Riwayat Pemesanan Anda</h2>
 
-      <p class="hidden max-w-lg text-white/90 md:mt-6 md:block md:text-lg md:leading-relaxed">
-        Lihat dan kelola status pesanan Anda, dari proses pembayaran hingga pengiriman. Dapatkan informasi lengkap tentang setiap langkah perjalanan pesanan Anda.
+      <p class="hidden mx-auto text-center text-white/90 md:mt-6 md:block md:text-lg md:leading-relaxed">
+        Lihat dan kelola status pesanan Anda, dari proses pembayaran hingga pengiriman. </br> Dapatkan informasi lengkap tentang setiap langkah perjalanan pesanan Anda.
       </p>
     </div>
   </div>

@@ -15,9 +15,9 @@
     </section>
 
     {{-- Sections 4 - Subscription Pricing --}}
-    @if (auth()->user()->subscription_status == 0)
+    {{-- @if (auth()->user()->subscription_status == 0)
         <section>
             @include('components.customers.beranda.subscription')
         </section>
-    @endif
+    @endif --}}
 @endsection

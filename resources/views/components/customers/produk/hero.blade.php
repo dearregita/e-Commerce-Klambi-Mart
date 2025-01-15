@@ -5,8 +5,8 @@
     <div class="text-center sm:text-left">
       <h2 class="text-2xl font-bold text-white sm:text-3xl md:text-5xl">Koleksi Terbaru</h2>
 
-      <p class="hidden max-w-lg text-white/90 md:mt-6 md:block md:text-lg md:leading-relaxed">
-        Temukan pilihan produk terbaru dengan kualitas terbaik, hadir untuk melengkapi gaya dan kebutuhan Anda dengan sentuhan modern.
+      <p class="hidden mx-auto text-center text-white/90 md:mt-6 md:block md:text-lg md:leading-relaxed">
+        Temukan pilihan produk terbaru dengan kualitas terbaik, hadir untuk melengkapi gaya </br>dan kebutuhan Anda dengan sentuhan modern.
       </p>
     </div>
   </div>
